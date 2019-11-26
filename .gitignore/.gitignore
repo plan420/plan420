@@ -1,0 +1,2 @@
+- имя: запустить ESLint
+  использует: stefanoeb/eslint-action@1.0.0
